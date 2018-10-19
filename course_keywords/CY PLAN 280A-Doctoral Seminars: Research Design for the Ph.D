@@ -1,0 +1,1 @@
+['least one oral presentation', 'weekly writing assignments designed', 'dissertation research plan', 'theoretical framework', 'problem framing', 'students working', 'writing', 'designed', 'students', 'work', 'step', 'required', 'prospectus', 'methodology', 'course', 'class']
